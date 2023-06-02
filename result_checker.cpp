@@ -1,4 +1,4 @@
-*/ c++ program which takes input marks of four subject and display the percentage and grades.(marks in all subject must be >=35, otherwise FAIL, if percentage >=70 then grade = DISTINCTION, per >=60 and <70 then grade = FIRST, if per>=50 and <60 then grade = SECOND, otherwise grade = PASS ) */
+*/ c++ program which takes input marks of four subject and display the percentages and grades.(marks in all subject must be >=35, otherwise FAIL, if percentage >=70 then grade = DISTINCTION, per >=60 and <70 then grade = FIRST, if per>=50 and <60 then grade = SECOND, otherwise grade = PASS ) */
 
  #include <iostream>
 using namespace std;
